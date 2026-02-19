@@ -1,6 +1,6 @@
 # Interactive Explainers
 
-A collection of interactive explainers for complex concepts, inspired by [Paras Chopra](https://paraschopra.github.io/explainers/) and [Bartosz Ciechanowski](https://ciechanow.ski/).
+A collection of interactive explainers for complex concepts, inspired by Paras Chopra.
 
 Built with React, Vite, and Tailwind CSS. Deployed on GitHub Pages.
 
